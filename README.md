@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://stackoverflow.com/users/17517848/goodan"><img src="https://stackoverflow.com/users/flair/17517848.png?theme=clean" width="208" height="58" alt="profile for GoodAN at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for GoodAN at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<div align="center"> 
+<a href="https://stackoverflow.com/users/17517848/goodan"><img src="https://stackoverflow.com/users/flair/17517848.png?theme=clean" width="312" height="87" alt="profile for GoodAN at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for GoodAN at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</div>
