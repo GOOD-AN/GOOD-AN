@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#285](https://github.com/yoimiya-kokomi/miao-plugin/issues/285) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-2. ❗️ Opened issue [#285](https://github.com/yoimiya-kokomi/miao-plugin/issues/285) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-3. 🎉 Merged PR [#10](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/10) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-4. 💪 Opened PR [#10](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/10) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-5. 🎉 Merged PR [#9](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/9) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+1. ❗️ Closed issue [#285](https://github.com/yoimiya-kokomi/miao-plugin/issues/285) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+2. 🗣 Commented on [#285](https://github.com/yoimiya-kokomi/miao-plugin/issues/285) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+3. 🗣 Commented on [#3828](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/3828) in [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+4. 🗣 Commented on [#943](https://github.com/Le-niao/Yunzai-Bot/issues/943) in [Le-niao/Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)
+5. 🗣 Commented on [#942](https://github.com/Le-niao/Yunzai-Bot/issues/942) in [Le-niao/Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)
 <!--END_SECTION:activity-->
 
 </details>
