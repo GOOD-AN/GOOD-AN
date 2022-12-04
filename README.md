@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#285](https://github.com/yoimiya-kokomi/miao-plugin/issues/285) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-2. 🗣 Commented on [#285](https://github.com/yoimiya-kokomi/miao-plugin/issues/285) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-3. 🗣 Commented on [#3828](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/3828) in [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-4. 🗣 Commented on [#943](https://github.com/Le-niao/Yunzai-Bot/issues/943) in [Le-niao/Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)
-5. 🗣 Commented on [#942](https://github.com/Le-niao/Yunzai-Bot/issues/942) in [Le-niao/Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)
+1. ❗️ Closed issue [#329](https://github.com/yoimiya-kokomi/miao-plugin/issues/329) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+2. 🗣 Commented on [#329](https://github.com/yoimiya-kokomi/miao-plugin/issues/329) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+3. ❗️ Opened issue [#329](https://github.com/yoimiya-kokomi/miao-plugin/issues/329) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+4. 🗣 Commented on [#328](https://github.com/yoimiya-kokomi/miao-plugin/issues/328) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+5. 🗣 Commented on [#955](https://github.com/Le-niao/Yunzai-Bot/issues/955) in [Le-niao/Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)
 <!--END_SECTION:activity-->
 
 </details>
