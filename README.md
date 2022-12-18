@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#321](https://github.com/yoimiya-kokomi/miao-plugin/issues/321) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-2. 🗣 Commented on [#321](https://github.com/yoimiya-kokomi/miao-plugin/issues/321) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-3. ❗️ Closed issue [#329](https://github.com/yoimiya-kokomi/miao-plugin/issues/329) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-4. 🗣 Commented on [#329](https://github.com/yoimiya-kokomi/miao-plugin/issues/329) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-5. ❗️ Opened issue [#329](https://github.com/yoimiya-kokomi/miao-plugin/issues/329) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+1. ❗️ Opened issue [#382](https://github.com/studyhelperhelper/studyhelper/issues/382) in [studyhelperhelper/studyhelper](https://github.com/studyhelperhelper/studyhelper)
+2. 🗣 Commented on [#387](https://github.com/BeyondDimension/SteamTools/issues/387) in [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
+3. ❗️ Closed issue [#387](https://github.com/BeyondDimension/SteamTools/issues/387) in [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
+4. ❗️ Closed issue [#321](https://github.com/yoimiya-kokomi/miao-plugin/issues/321) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+5. 🗣 Commented on [#321](https://github.com/yoimiya-kokomi/miao-plugin/issues/321) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
 <!--END_SECTION:activity-->
 
 </details>
