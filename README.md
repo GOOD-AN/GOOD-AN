@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#382](https://github.com/studyhelperhelper/studyhelper/issues/382) in [studyhelperhelper/studyhelper](https://github.com/studyhelperhelper/studyhelper)
-2. 🗣 Commented on [#382](https://github.com/studyhelperhelper/studyhelper/issues/382) in [studyhelperhelper/studyhelper](https://github.com/studyhelperhelper/studyhelper)
-3. 🗣 Commented on [#382](https://github.com/studyhelperhelper/studyhelper/issues/382) in [studyhelperhelper/studyhelper](https://github.com/studyhelperhelper/studyhelper)
-4. ❗️ Opened issue [#382](https://github.com/studyhelperhelper/studyhelper/issues/382) in [studyhelperhelper/studyhelper](https://github.com/studyhelperhelper/studyhelper)
-5. 🗣 Commented on [#387](https://github.com/BeyondDimension/SteamTools/issues/387) in [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
+1. ❗️ Closed issue [#2](https://github.com/Nwflower/auto-plugin/issues/2) in [Nwflower/auto-plugin](https://github.com/Nwflower/auto-plugin)
+2. 🗣 Commented on [#2](https://github.com/Nwflower/auto-plugin/issues/2) in [Nwflower/auto-plugin](https://github.com/Nwflower/auto-plugin)
+3. ❗️ Opened issue [#2](https://github.com/Nwflower/auto-plugin/issues/2) in [Nwflower/auto-plugin](https://github.com/Nwflower/auto-plugin)
+4. 🎉 Merged PR [#11](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/11) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+5. ❗️ Closed issue [#382](https://github.com/studyhelperhelper/studyhelper/issues/382) in [studyhelperhelper/studyhelper](https://github.com/studyhelperhelper/studyhelper)
 <!--END_SECTION:activity-->
 
 </details>
