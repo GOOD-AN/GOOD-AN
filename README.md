@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/y1ndan/genshinhelper2/issues/67) in [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2)
-2. ❗️ Closed issue [#2](https://github.com/Nwflower/auto-plugin/issues/2) in [Nwflower/auto-plugin](https://github.com/Nwflower/auto-plugin)
-3. 🗣 Commented on [#2](https://github.com/Nwflower/auto-plugin/issues/2) in [Nwflower/auto-plugin](https://github.com/Nwflower/auto-plugin)
-4. ❗️ Opened issue [#2](https://github.com/Nwflower/auto-plugin/issues/2) in [Nwflower/auto-plugin](https://github.com/Nwflower/auto-plugin)
-5. 🎉 Merged PR [#11](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/11) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+1. ❗️ Opened issue [#47](https://github.com/ctrlcvs/xiaoyao-cvs-plugin/issues/47) in [ctrlcvs/xiaoyao-cvs-plugin](https://github.com/ctrlcvs/xiaoyao-cvs-plugin)
+2. 🗣 Commented on [#1131](https://github.com/Le-niao/Yunzai-Bot/issues/1131) in [Le-niao/Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)
+3. 🗣 Commented on [#67](https://github.com/y1ndan/genshinhelper2/issues/67) in [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2)
+4. ❗️ Closed issue [#2](https://github.com/Nwflower/auto-plugin/issues/2) in [Nwflower/auto-plugin](https://github.com/Nwflower/auto-plugin)
+5. 🗣 Commented on [#2](https://github.com/Nwflower/auto-plugin/issues/2) in [Nwflower/auto-plugin](https://github.com/Nwflower/auto-plugin)
 <!--END_SECTION:activity-->
 
 </details>
