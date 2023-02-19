@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1009](https://github.com/Le-niao/Yunzai-Bot/issues/1009) in [Le-niao/Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)
-2. 🗣 Commented on [#411](https://github.com/yoimiya-kokomi/miao-plugin/issues/411) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-3. ❗️ Opened issue [#47](https://github.com/ctrlcvs/xiaoyao-cvs-plugin/issues/47) in [ctrlcvs/xiaoyao-cvs-plugin](https://github.com/ctrlcvs/xiaoyao-cvs-plugin)
-4. 🗣 Commented on [#1131](https://github.com/Le-niao/Yunzai-Bot/issues/1131) in [Le-niao/Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)
-5. 🗣 Commented on [#67](https://github.com/y1ndan/genshinhelper2/issues/67) in [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2)
+1. 🗣 Commented on [#215](https://github.com/TechXueXi/TechXueXi/issues/215) in [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi)
+2. 🗣 Commented on [#215](https://github.com/TechXueXi/TechXueXi/issues/215) in [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi)
+3. 🗣 Commented on [#592](https://github.com/solstice23/argon-theme/issues/592) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+4. ❗️ Opened issue [#592](https://github.com/solstice23/argon-theme/issues/592) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+5. ❗️ Opened issue [#467](https://github.com/yoimiya-kokomi/miao-plugin/issues/467) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
 <!--END_SECTION:activity-->
 
 </details>
