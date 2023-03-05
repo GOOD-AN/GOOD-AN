@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#467](https://github.com/yoimiya-kokomi/miao-plugin/issues/467) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-2. 🗣 Commented on [#467](https://github.com/yoimiya-kokomi/miao-plugin/issues/467) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-3. 🗣 Commented on [#467](https://github.com/yoimiya-kokomi/miao-plugin/issues/467) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+1. 🗣 Commented on [#13](https://github.com/GOOD-AN/Mys-Exchange-Goods/issues/13) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+2. 🗣 Commented on [#487](https://github.com/yoimiya-kokomi/miao-plugin/issues/487) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+3. ❗️ Closed issue [#467](https://github.com/yoimiya-kokomi/miao-plugin/issues/467) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
 4. 🗣 Commented on [#467](https://github.com/yoimiya-kokomi/miao-plugin/issues/467) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-5. 🗣 Commented on [#20](https://github.com/yeyang52/yenai-plugin/issues/20) in [yeyang52/yenai-plugin](https://github.com/yeyang52/yenai-plugin)
+5. 🗣 Commented on [#467](https://github.com/yoimiya-kokomi/miao-plugin/issues/467) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
 <!--END_SECTION:activity-->
 
 </details>
