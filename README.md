@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/GOOD-AN/Mys-Exchange-Goods/issues/13) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-2. ❌ Closed PR [#12](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/12) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-3. 🎉 Merged PR [#14](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/14) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-4. 💪 Opened PR [#14](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/14) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-5. 🗣 Commented on [#13](https://github.com/GOOD-AN/Mys-Exchange-Goods/issues/13) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+1. ❌ Closed PR [#17](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/17) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+2. 💪 Opened PR [#17](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/17) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+3. ❌ Closed PR [#16](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/16) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+4. 💪 Opened PR [#16](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/16) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+5. 🎉 Merged PR [#15](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/15) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
 <!--END_SECTION:activity-->
 
 </details>
