@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#556](https://github.com/yoimiya-kokomi/miao-plugin/issues/556) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-2. ❗️ Opened issue [#556](https://github.com/yoimiya-kokomi/miao-plugin/issues/556) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-3. ❗️ Closed issue [#18](https://github.com/GOOD-AN/Mys-Exchange-Goods/issues/18) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-4. 🗣 Commented on [#19](https://github.com/GOOD-AN/Mys-Exchange-Goods/issues/19) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-5. 🗣 Commented on [#18](https://github.com/GOOD-AN/Mys-Exchange-Goods/issues/18) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+1. 🎉 Merged PR [#24](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/24) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+2. 💪 Opened PR [#24](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/24) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+3. 🎉 Merged PR [#23](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/23) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+4. 💪 Opened PR [#23](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/23) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+5. 🎉 Merged PR [#22](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/22) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
 <!--END_SECTION:activity-->
 
 </details>
