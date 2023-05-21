@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/24) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-2. 💪 Opened PR [#24](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/24) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-3. 🎉 Merged PR [#23](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/23) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-4. 💪 Opened PR [#23](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/23) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-5. 🎉 Merged PR [#22](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/22) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+1. ❗️ Opened issue [#23](https://github.com/Nuitka/Nuitka-Action/issues/23) in [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action)
+2. 🎉 Merged PR [#25](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/25) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+3. 🎉 Merged PR [#24](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/24) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+4. 💪 Opened PR [#24](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/24) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+5. 🎉 Merged PR [#23](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/23) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
 <!--END_SECTION:activity-->
 
 </details>
