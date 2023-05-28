@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/Nuitka/Nuitka-Action/issues/23) in [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action)
-2. 🎉 Merged PR [#25](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/25) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-3. 🎉 Merged PR [#24](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/24) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-4. 💪 Opened PR [#24](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/24) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-5. 🎉 Merged PR [#23](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/23) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+1. ❗️ Opened issue [#25](https://github.com/Nuitka/Nuitka-Action/issues/25) in [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action)
+2. 🗣 Commented on [#23](https://github.com/Nuitka/Nuitka-Action/issues/23) in [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action)
+3. ❗️ Opened issue [#54](https://github.com/hewang1an/StarRail-plugin/issues/54) in [hewang1an/StarRail-plugin](https://github.com/hewang1an/StarRail-plugin)
+4. ❗️ Opened issue [#23](https://github.com/Nuitka/Nuitka-Action/issues/23) in [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action)
+5. 🎉 Merged PR [#25](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/25) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
 <!--END_SECTION:activity-->
 
 </details>
