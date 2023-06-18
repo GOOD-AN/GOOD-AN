@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/yoimiya-kokomi/Miao-Yunzai/issues/174) in [yoimiya-kokomi/Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai)
-2. 🗣 Commented on [#39](https://github.com/HeadmasterTan/zhi-plugin/issues/39) in [HeadmasterTan/zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin)
-3. 🗣 Commented on [#39](https://github.com/HeadmasterTan/zhi-plugin/issues/39) in [HeadmasterTan/zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin)
-4. 🗣 Commented on [#39](https://github.com/HeadmasterTan/zhi-plugin/issues/39) in [HeadmasterTan/zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin)
-5. 🗣 Commented on [#39](https://github.com/HeadmasterTan/zhi-plugin/issues/39) in [HeadmasterTan/zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin)
+1. 🚀 Published release [3.0.4](https://github.com/3.0.4) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+2. 🎉 Merged PR [#39](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/39) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+3. 💪 Opened PR [#39](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/39) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+4. 🎉 Merged PR [#36](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/36) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+5. 🎉 Merged PR [#38](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/38) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
 <!--END_SECTION:activity-->
 
 </details>
