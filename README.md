@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.0.4](https://github.com/3.0.4) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-2. 🎉 Merged PR [#39](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/39) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-3. 💪 Opened PR [#39](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/39) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-4. 🎉 Merged PR [#36](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/36) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-5. 🎉 Merged PR [#38](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/38) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+1. ❗ Opened issue [#194](https://github.com/yoimiya-kokomi/Miao-Yunzai/issues/194) in [yoimiya-kokomi/Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai)
+2. 🔒 Closed issue [#556](https://github.com/yoimiya-kokomi/miao-plugin/issues/556) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+3. 🔒 Closed issue [#191](https://github.com/yoimiya-kokomi/Miao-Yunzai/issues/191) in [yoimiya-kokomi/Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai)
+4. 🔒 Closed issue [#47](https://github.com/ctrlcvs/xiaoyao-cvs-plugin/issues/47) in [ctrlcvs/xiaoyao-cvs-plugin](https://github.com/ctrlcvs/xiaoyao-cvs-plugin)
+5. 🔒 Closed issue [#318](https://github.com/yoimiya-kokomi/miao-plugin/issues/318) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
 <!--END_SECTION:activity-->
 
 </details>
