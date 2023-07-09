@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#194](https://github.com/yoimiya-kokomi/Miao-Yunzai/issues/194) in [yoimiya-kokomi/Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai)
-2. 🔒 Closed issue [#556](https://github.com/yoimiya-kokomi/miao-plugin/issues/556) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-3. 🔒 Closed issue [#191](https://github.com/yoimiya-kokomi/Miao-Yunzai/issues/191) in [yoimiya-kokomi/Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai)
-4. 🔒 Closed issue [#47](https://github.com/ctrlcvs/xiaoyao-cvs-plugin/issues/47) in [ctrlcvs/xiaoyao-cvs-plugin](https://github.com/ctrlcvs/xiaoyao-cvs-plugin)
-5. 🔒 Closed issue [#318](https://github.com/yoimiya-kokomi/miao-plugin/issues/318) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+1. 🗣 Commented on [#46](https://github.com/HeadmasterTan/zhi-plugin/issues/46) in [HeadmasterTan/zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin)
+2. 🗣 Commented on [#46](https://github.com/HeadmasterTan/zhi-plugin/issues/46) in [HeadmasterTan/zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin)
+3. ❗ Opened issue [#609](https://github.com/yoimiya-kokomi/miao-plugin/issues/609) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+4. ❗ Opened issue [#46](https://github.com/HeadmasterTan/zhi-plugin/issues/46) in [HeadmasterTan/zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin)
+5. 🔒 Closed issue [#39](https://github.com/HeadmasterTan/zhi-plugin/issues/39) in [HeadmasterTan/zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin)
 <!--END_SECTION:activity-->
 
 </details>
