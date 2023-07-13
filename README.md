@@ -26,5 +26,5 @@
 <details>
 <summary>:zap: 我在 GitHub 上的统计</summary>
 
-![GOOD-AN's github stats](https://github-readme-stats-umber-theta.vercel.app/api?username=GOOD-AN&count_private=true&show_icons=true&include_all_commits=true&line_height=28&card_width=400px) ![Top Langs](https://github-readme-stats-umber-theta.vercel.app/api/top-langs/?username=GOOD-AN&&layout=compact&&langs_count=6&&exclude_repo=GOOD-AN.github.io,GOOD-AN,github-readme-stats)
+![GOOD-AN's github stats](https://github-readme-stats-umber-theta.vercel.app/api?username=GOOD-AN&count_private=true&show_icons=true&include_all_commits=true&line_height=28&card_width=400px) ![Top Langs](https://github-readme-stats-umber-theta.vercel.app/api/top-langs/?username=GOOD-AN&&layout=compact&&langs_count=6&&exclude_repo=GOOD-AN.github.io,GOOD-AN,github-readme-stats,test)
 </details>
