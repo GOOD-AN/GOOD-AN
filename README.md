@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#627](https://github.com/yoimiya-kokomi/miao-plugin/issues/627) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-2. ❗ Opened issue [#627](https://github.com/yoimiya-kokomi/miao-plugin/issues/627) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
-3. ❗ Opened issue [#65](https://github.com/AFanSKyQs/FanSky_Qs/issues/65) in [AFanSKyQs/FanSky_Qs](https://github.com/AFanSKyQs/FanSky_Qs)
-4. 🗣 Commented on [#795](https://github.com/SocialSisterYi/bilibili-API-collect/issues/795#issuecomment-1694553594) in [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
-5. ❗ Opened issue [#216](https://github.com/lkeme/BiliHelper-personal/issues/216) in [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal)
+1. 🎉 Merged PR [#45](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/45) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+2. 🎉 Merged PR [#50](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/50) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+3. 🎉 Merged PR [#49](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/49) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+4. 🎉 Merged PR [#48](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/48) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+5. 🔒 Closed issue [#627](https://github.com/yoimiya-kokomi/miao-plugin/issues/627) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
 <!--END_SECTION:activity-->
 
 </details>
