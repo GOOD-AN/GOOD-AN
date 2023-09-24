@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/45) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-2. 🎉 Merged PR [#50](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/50) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-3. 🎉 Merged PR [#49](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/49) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-4. 🎉 Merged PR [#48](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/48) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-5. 🔒 Closed issue [#627](https://github.com/yoimiya-kokomi/miao-plugin/issues/627) in [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin)
+1. 🔒 Closed issue [#65](https://github.com/AFanSKyQs/FanSky_Qs/issues/65) in [AFanSKyQs/FanSky_Qs](https://github.com/AFanSKyQs/FanSky_Qs)
+2. ❗ Opened issue [#1291](https://github.com/sunface/rust-course/issues/1291) in [sunface/rust-course](https://github.com/sunface/rust-course)
+3. 🎉 Merged PR [#45](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/45) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+4. 🎉 Merged PR [#50](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/50) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+5. 🎉 Merged PR [#49](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/49) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
 <!--END_SECTION:activity-->
 
 </details>
