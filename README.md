@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#792](https://github.com/agronholm/apscheduler/issues/792) in [agronholm/apscheduler](https://github.com/agronholm/apscheduler)
-2. 🗣 Commented on [#52](https://github.com/GOOD-AN/Mys-Exchange-Goods/issues/52#issuecomment-1736942808) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-3. 🔒 Closed issue [#65](https://github.com/AFanSKyQs/FanSky_Qs/issues/65) in [AFanSKyQs/FanSky_Qs](https://github.com/AFanSKyQs/FanSky_Qs)
-4. ❗ Opened issue [#1291](https://github.com/sunface/rust-course/issues/1291) in [sunface/rust-course](https://github.com/sunface/rust-course)
-5. 🎉 Merged PR [#45](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/45) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+1. 🗣 Commented on [#52](https://github.com/GOOD-AN/Mys-Exchange-Goods/issues/52#issuecomment-1758815412) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+2. ❗ Opened issue [#792](https://github.com/agronholm/apscheduler/issues/792) in [agronholm/apscheduler](https://github.com/agronholm/apscheduler)
+3. 🗣 Commented on [#52](https://github.com/GOOD-AN/Mys-Exchange-Goods/issues/52#issuecomment-1736942808) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+4. 🔒 Closed issue [#65](https://github.com/AFanSKyQs/FanSky_Qs/issues/65) in [AFanSKyQs/FanSky_Qs](https://github.com/AFanSKyQs/FanSky_Qs)
+5. ❗ Opened issue [#1291](https://github.com/sunface/rust-course/issues/1291) in [sunface/rust-course](https://github.com/sunface/rust-course)
 <!--END_SECTION:activity-->
 
 </details>
