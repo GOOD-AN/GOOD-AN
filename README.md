@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/58) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-2. 🗣 Commented on [#75](https://github.com/HolographicHat/YaeAchievement/issues/75#issuecomment-1804081424) in [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement)
-3. ❗ Opened issue [#75](https://github.com/HolographicHat/YaeAchievement/issues/75) in [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement)
-4. 🗣 Commented on [#218](https://github.com/lkeme/BiliHelper-personal/issues/218#issuecomment-1784445644) in [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal)
-5. 🗣 Commented on [#795](https://github.com/SocialSisterYi/bilibili-API-collect/issues/795#issuecomment-1784052363) in [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
+1. ❗ Opened issue [#2](https://github.com/luiguangguan/DGJv3/issues/2) in [luiguangguan/DGJv3](https://github.com/luiguangguan/DGJv3)
+2. 🗣 Commented on [#146](https://github.com/XiaoMiku01/fansMedalHelper/issues/146#issuecomment-1862244830) in [XiaoMiku01/fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper)
+3. 🎉 Merged PR [#58](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/58) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+4. 🗣 Commented on [#75](https://github.com/HolographicHat/YaeAchievement/issues/75#issuecomment-1804081424) in [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement)
+5. ❗ Opened issue [#75](https://github.com/HolographicHat/YaeAchievement/issues/75) in [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement)
 <!--END_SECTION:activity-->
 
 </details>
