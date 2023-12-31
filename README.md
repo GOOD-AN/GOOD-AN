@@ -14,11 +14,11 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/luiguangguan/DGJv3/issues/2) in [luiguangguan/DGJv3](https://github.com/luiguangguan/DGJv3)
-2. 🗣 Commented on [#146](https://github.com/XiaoMiku01/fansMedalHelper/issues/146#issuecomment-1862244830) in [XiaoMiku01/fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper)
-3. 🎉 Merged PR [#58](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/58) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
-4. 🗣 Commented on [#75](https://github.com/HolographicHat/YaeAchievement/issues/75#issuecomment-1804081424) in [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement)
-5. ❗ Opened issue [#75](https://github.com/HolographicHat/YaeAchievement/issues/75) in [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement)
+1. 🎉 Merged PR [#67](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/67) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+2. 🎉 Merged PR [#64](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/64) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+3. 🎉 Merged PR [#65](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/65) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+4. 🎉 Merged PR [#63](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/63) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
+5. 🎉 Merged PR [#66](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/66) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
 <!--END_SECTION:activity-->
 
 </details>
