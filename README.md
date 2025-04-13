@@ -14,7 +14,7 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#59](https://github.com/cjx82630/cjxlist/issues/59) in [cjx82630/cjxlist](https://github.com/cjx82630/cjxlist)
+1. 🗣 Commented on [#243](https://github.com/cole/aiosmtplib/issues/243#issuecomment-2796939768) in [cole/aiosmtplib](https://github.com/cole/aiosmtplib)
 2. ❗ Opened issue [#999](https://github.com/privacy-protection-tools/anti-AD/issues/999) in [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD)
 3. 🗣 Commented on [#25344](https://github.com/uBlockOrigin/uAssets/issues/25344#issuecomment-2519010851) in [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
 4. 🎉 Merged PR [#63](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/63) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
