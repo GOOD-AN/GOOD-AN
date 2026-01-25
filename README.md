@@ -14,9 +14,9 @@
   <summary>:zap: 我在 GitHub 上最近的活动</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#243](https://github.com/cole/aiosmtplib/issues/243#issuecomment-2800998512) in [cole/aiosmtplib](https://github.com/cole/aiosmtplib)
-2. 🗣 Commented on [#243](https://github.com/cole/aiosmtplib/issues/243#issuecomment-2799851290) in [cole/aiosmtplib](https://github.com/cole/aiosmtplib)
-3. 🗣 Commented on [#243](https://github.com/cole/aiosmtplib/issues/243#issuecomment-2796939768) in [cole/aiosmtplib](https://github.com/cole/aiosmtplib)
+1. 🔒 Closed issue [#513](https://github.com/fishjar/kiss-translator/issues/513) in [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
+2. 🗣 Commented on [#513](https://github.com/fishjar/kiss-translator/issues/513#issuecomment-3794324514) in [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
+3. ❗ Opened issue [#513](https://github.com/fishjar/kiss-translator/issues/513) in [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
 4. 🎉 Merged PR [#63](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/63) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
 5. 🎉 Merged PR [#66](https://github.com/GOOD-AN/Mys-Exchange-Goods/pull/66) in [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods)
 <!--END_SECTION:activity-->
